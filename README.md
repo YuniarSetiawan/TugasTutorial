@@ -27,3 +27,5 @@
 8.	Untuk penjelasan program saya sudah beri penjelasan di koding
 
 ````
+##admin
+![admin](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/admin.PNG)
