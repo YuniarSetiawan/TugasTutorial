@@ -21,8 +21,7 @@
          pemasukan VARCHAR(10000000)  DEFAULT NULL
          );
 4.	Kemudian setelah berhasil kita buka di browser dengan alamat localhost/xampp lalu setelah di buka pilih phpmyadmin untuk mengisi    database yang suah dibuat.
-5.	Kemudian kita buka neatbean untuk membuat program, saya membuat 
-Index.php, wisata.php, login.php, loginadmin.php, menu.php, galery.php
+5.	Kemudian kita buka neatbean untuk membuat program, saya membuat Index.php, wisata.php, login.php, loginadmin.php, menu.php, galery.php
 6.	Index.php adalah halaman pertama saya kemudian buat post ke wisata.php,login.php, loginadmin.php, menu.php, galery.php.
 7.	Dan membuat folder config untuk membuat dao.php dan dbconfig untuk memanggil database kita.
 8.	Untuk penjelasan program saya sudah beri penjelasan di koding
