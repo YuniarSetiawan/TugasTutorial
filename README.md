@@ -27,5 +27,17 @@
 8.	Untuk penjelasan program saya sudah beri penjelasan di koding
 
 ````
+## home
+![home](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/home.PNG)
+## wisata
+![wisata](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/wisata.PNG)
+## galeri
+![gaeri](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/galeri.PNG)
+## salah login
+![slh](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/salah.PNG)
+## belum lengkap
+![blm](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/dialog.PNG)
 ## admin
 ![admin](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/admin.PNG)
+## database
+![db](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/db.PNG)
