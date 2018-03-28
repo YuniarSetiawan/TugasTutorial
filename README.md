@@ -1,5 +1,5 @@
 # TugasTutorial
-##Tutorial
+## Tutorial
 ````sh
 1.	Pertama saiapkan aplikasi neatbean, xampp dan mysql
 2.	Buka xampp lalu start apache dan mysqlnya 
@@ -27,5 +27,5 @@
 8.	Untuk penjelasan program saya sudah beri penjelasan di koding
 
 ````
-##admin
+## admin
 ![admin](https://github.com/YuniarSetiawan/TugasTutorial/blob/master/admin.PNG)
